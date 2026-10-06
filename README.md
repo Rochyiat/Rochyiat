@@ -9,7 +9,7 @@ Saya tertarik membangun aplikasi web yang **fungsional, terstruktur, dan mudah d
 - 💻 Fokus: Full Stack Web Development
 - 🌱 Sedang memperdalam: Arsitektur aplikasi, REST API, dan pengembangan sistem yang maintainable
 - 📍 Bandung, Indonesia
-- 📫 Email: `email-anda@example.com`
+- 📫 Email: `rochyiatramdani@gmail.com`
 
 ---
 
